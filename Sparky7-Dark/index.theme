@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sparky7-Dark
+Comment=An Materia Gtk+ theme based on Fluent and Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sparky7-Dark
+MetacityTheme=Sparky7-Dark
+IconTheme=Sparky7-Dark
+CursorTheme=Sparky7-Dark
+ButtonLayout=close,minimize,maximize:menu
